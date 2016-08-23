@@ -1,0 +1,1 @@
+python3 spell_check_tools.py list_of_test_words.txt
